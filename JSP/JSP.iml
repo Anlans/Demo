@@ -32,5 +32,6 @@
       </library>
     </orderEntry>
     <orderEntry type="library" exported="" scope="PROVIDED" name="Tomcat9" level="application_server_libraries" />
+    <orderEntry type="library" name="annotations-api" level="project" />
   </component>
 </module>
